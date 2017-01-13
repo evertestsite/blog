@@ -1,9 +1,10 @@
 arpi: # Author key. Must be the same as the slug (next line)
   slug: arpi # Must be the same as the author key (previous line) [required]
   name: Arpi Toth # Doesn't need an explanation [required] [views: all]
-  bio: Arpi Toth is professional software tester. His passion for help projects to test better. When he is not a tester then he is a dancer. # Short bio [optional] [views: post, author]
+  bio: Arpi Toth is professional software tester. His passion for help projects to test better. When he is not a tester, he is a dancer. # Short bio [optional] [views: post, author]
   location: Budapest, Hungary # [optional] [views: post, author]
   twitter: arptoth # Twitter username (without the '@') [views: post, author]
   linkedin: arpadtoth
   gravatar: e09e38a38fd7708f8278cc56932e70f5 # MD5 hash of your Gravatar email [optional (but it's cool)]
   linkedin: totharpad
+  cover: /images/covers/budapest.jpg

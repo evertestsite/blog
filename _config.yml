@@ -19,7 +19,7 @@ permalink: /:title
 
 # Services (all are optional)
 analytics: UA-1234567-8 # Google Analytics tracking ID
-disqus: jasper-theme    # Disqus shortname
+disqus: evertest    # Disqus shortname
 facebook_l10n: en_US    # Your locale (en_US, fr_FR, etc.)
 twitter: arptoth    # Website's Twitter username (without the '@')
 
